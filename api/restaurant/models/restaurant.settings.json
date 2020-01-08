@@ -1,6 +1,4 @@
 {
-  "connection": "default",
-  "collectionName": "restaurants",
   "info": {
     "name": "Restaurant"
   },
@@ -15,5 +13,7 @@
     "description": {
       "type": "string"
     }
-  }
+  },
+  "connection": "default",
+  "collectionName": "restaurants"
 }
